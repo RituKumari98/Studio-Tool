@@ -24,6 +24,7 @@ const productSchema = new mongoose.Schema(
         'Audio',
         'Computer',
         'Accessory',
+        'Storage',
         'Furniture',
         'Other',
       ],

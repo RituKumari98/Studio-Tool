@@ -10,6 +10,7 @@ const CATEGORIES = [
   'Lighting',
   'Audio',
   'Computer',
+  'Storage',
   'Accessory',
   'Furniture',
   'Other',
